@@ -3,6 +3,9 @@ data/
 runs/
 models/
 
+# torch models
+**/*.model
+
 # zipped files
 **/*.zip
 
